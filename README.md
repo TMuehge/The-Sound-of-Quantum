@@ -11,7 +11,7 @@ The air particles are coupled between each other which means that they are someh
 This coupling is the reason, why introduced motion by for instance a loudspeaker propagates as a wave.<br/>
 The ear is decomposing the airwave into the set of frequencies and is performing a biological fourier analysis.
 The composition of different frequencies over time can be noise, speech or if done right music.<br/>
-**How to relate it to quantum  computing?**
+**How to relate it to quantum  computing?**<br/>
 Quantum computers consists on qubits. This are very fragile elements that can act completely probabilitic in case the programmer wants them to behave in such a way.<br/>
 With an operation called the H gate we move the qubit state from the north pole or the 0 state to the equator.
 In order to get information on the state we need to measure the qubit state.<br/>
