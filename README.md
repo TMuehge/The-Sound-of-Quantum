@@ -15,5 +15,6 @@ The composition of different frequencies over time can be noise, speech or if do
 Quantum computers consists on qubits. This are very fragile elements that can act completely probabilitic in case the programmer wants them to behave in such a way.<br/>
 With an operation called the H gate we move the qubit state from the north pole or the 0 state to the equator.
 In order to get information on the state we need to measure the qubit state.<br/>
-Here we have a 50% probability for the qubit to be in the zero and a 50% probability to be in the 1 state.
-So how to turn this into sound?
+Here we have a 50% probability for the qubit to be in the zero and a 50% probability to be in the 1 state.<br/>
+**So how to turn this into sound?**<br/>
+
