@@ -19,7 +19,14 @@ Here we have a 50% probability for the qubit to be in the zero and a 50% probabi
 
 <img src="https://github.com/TMuehge/The-Sound-of-Quantum/blob/main/artwork/qubit1a.png?raw=true" alt="Employee data" title="Employee Data title">
 
-**So how to turn this into sound?**<br/>
+**How to turn this into sound?**<br/>
 
 If we measure our qubit one time the output will be either a 0 or a 1.<br/>
-If we measure twice we 
+If we measure twice the outpot will be either two times 0, two times 1, or a combination of a zero and a 1.<br/>
+It turns into music if we associate the output 0 to a defined sound frequency like e.g. 261.63 Hz equivalent to a C and the output 1 to 392.00 Hz equivalent to a G.<br/>
+The amplitudes of each tone is defined by the normalized counts of the 0 or 1.<br/>
+Please note, that this technique provides a substantial probabilistic music output only for low numbers of measurements. The more measurements you take the closer the conts will be equally devided between zeros and ones.<br/>
+
+**How to make music?**<br/>
+If we add one more qubit we increase the number of different output values from 
+
