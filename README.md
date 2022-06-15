@@ -16,5 +16,10 @@ Quantum computers consists on qubits. This are very fragile elements that can ac
 With an operation called the H gate we move the qubit state from the north pole or the 0 state to the equator.
 In order to get information on the state we need to measure the qubit state.<br/>
 Here we have a 50% probability for the qubit to be in the zero and a 50% probability to be in the 1 state.<br/>
+
+<img src="https://github.com/TMuehge/The-Sound-of-Quantum/blob/main/artwork/qubit1a.png?raw=true" alt="Employee data" title="Employee Data title">
+
 **So how to turn this into sound?**<br/>
 
+If we measure our qubit one time the output will be either a 0 or a 1.<br/>
+If we measure twice we 
